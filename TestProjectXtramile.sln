@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestProjectXtramile", "TestProjectXtramile\TestProjectXtramile.csproj", "{C46DC8FE-8E12-46AA-8F32-3A94C10906FA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnitTestProjectXtramile", "UnitTestProjectXtramile\UnitTestProjectXtramile.csproj", "{D6D5AB80-5CB0-4127-9EFF-B82E8CB7B599}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C46DC8FE-8E12-46AA-8F32-3A94C10906FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C46DC8FE-8E12-46AA-8F32-3A94C10906FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C46DC8FE-8E12-46AA-8F32-3A94C10906FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C46DC8FE-8E12-46AA-8F32-3A94C10906FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6D5AB80-5CB0-4127-9EFF-B82E8CB7B599}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6D5AB80-5CB0-4127-9EFF-B82E8CB7B599}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6D5AB80-5CB0-4127-9EFF-B82E8CB7B599}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6D5AB80-5CB0-4127-9EFF-B82E8CB7B599}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {846FC8C5-29BC-4B30-AB1F-86C72D65FD07}
+	EndGlobalSection
+EndGlobal
